@@ -7,6 +7,8 @@ source passage shown alongside it.
 Not another "chat with your PDF" bot. RAGnarok is grounding-as-you-type: retrieval and
 LLM-based claim classification wired directly into the writing loop.
 
+I used pretrained deep learning models (Transformer-based embeddings + an LLM) as components, and built the engineering around them — retrieval pipeline, hybrid search, classification logic, real-time UI
+
 ---
 
 ## How it works
