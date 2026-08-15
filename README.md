@@ -71,7 +71,7 @@ Upload or paste `.txt` / `.md` documents, browse them as index cards, read full 
 <details>
 <summary>🔎 <strong>Research</strong></summary>
 
-Give RAGnarok a topic. It expands the topic into search queries, searches the web, fetches and cleans pages, ingests them into the active case, and drafts a grounded starting paragraph.
+Give Evidentia a topic. It expands the topic into search queries, searches the web, fetches and cleans pages, ingests them into the active case, and drafts a grounded starting paragraph.
 
 </details>
 
