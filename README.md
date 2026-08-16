@@ -1,15 +1,8 @@
-# RAGnarok: Evidence-First Editor
+# Evidentia: Evidence-First Editor
 
 A writing tool that checks factual claims against a trusted document corpus in
 real time, highlighting each sentence as **supported**, **contradicted**, or
 **unverified**, with the exact source shown inline.
-
-> **Upgrading from an older version of RAGnarok?** This version added case
-> files, which changed the database schema (documents and claim checks now
-> belong to a `case_id`). There's no migration system, so delete
-> `backend/data/` entirely (both the SQLite file and the Chroma folder)
-> before starting the backend, or you'll hit `no such column: case_id`
-> errors against your old database.
 
 ## Architecture
 
